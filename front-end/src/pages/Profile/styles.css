@@ -75,7 +75,6 @@
     color: #41414D;
 }
 
---p depois de um strong
 .profile-container ul li p + strong{
     margin-top: 32px;
 }
