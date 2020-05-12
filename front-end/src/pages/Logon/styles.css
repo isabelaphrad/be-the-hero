@@ -1,0 +1,28 @@
+.logon-container {
+    width: 100%;
+    max-width: 1120px;
+    height: 100vh;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logon-container section.form {
+    margin-top: 10px;
+    max-width: 350px;
+}
+
+.logon-container section.form form{
+    margin-top: 90px;
+}
+
+.logon-container section.form h1{
+    font-size: 32px;
+    margin-bottom: 32px;
+}
+
+#imgHeroes {
+    max-width: 550px;
+    margin: auto 50px;
+}
